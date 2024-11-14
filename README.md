@@ -18,13 +18,11 @@ Hi there! I'm Aditya, a -year Computer Science Engineering undergrad at Lovely P
 ![LeetCode Stats](https://leetcode.card.workers.dev/thegautam08?theme=nord&font=&extension=activity)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Breadcrumbsaditya3singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Breadcrumbsaditya3singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbsaditya3singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aditya3singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsubodh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=realsubodh&theme=dark&hide_border=false)<br/>
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Breadcrumbsaditya3singh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=aditya3singh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![An image of @Breadcrumbsaditya3singh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Breadcrumbsaditya3singh)](https://holopin.io/@Breadcrumbsaditya3singh)
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 

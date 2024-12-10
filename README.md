@@ -4,7 +4,7 @@ Hi there! I'm Aditya, a -year Computer Science Engineering undergrad at Lovely P
 
 🌍  I'm based in Varanasi, Uttar Pradesh, India 
 - ✉️  You can contact me at singhaditya20030@gmail.com
-- 🧠  I'm learning JS | MATERIAL UI.
+- 🧠  I'm learning Back-End Development| MATERIAL UI.
 - 🤝  I'm open to collaborating on Frontend Projects | UI Designing.
 - ⚡  I'm Gautam ... you can  tell anybody!
 

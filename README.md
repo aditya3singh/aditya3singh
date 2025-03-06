@@ -5,9 +5,11 @@ Hi there! I'm **Aditya Singh Gautam**, a Computer Science Engineering undergrad 
 
 - 📍 **Location:** Varanasi, Uttar Pradesh, India
 - 📬 **Email:** singhaditya20030@gmail.com
-- 🌱 **Currently Learning:** Backend Development | Material UI
+- 🌱 **Currently Learning:** MERN Stack | Cloud Computing
 - 💡 **Interests:** Frontend Projects | UI Designing | Cloud Technologies
 - ⚡ **Fun Fact:** "I'm Gautam ... you can tell anybody!"
+
+I am a **MERN Stack Developer** and currently expanding my expertise in **Cloud Technologies** to build cutting-edge, scalable solutions.
 
 ---
 
@@ -45,9 +47,6 @@ Hi there! I'm **Aditya Singh Gautam**, a Computer Science Engineering undergrad 
 
 ### 📜 Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aditya3singh/aditya3singh/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ### 💡 Let's Connect!

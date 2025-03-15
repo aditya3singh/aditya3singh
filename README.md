@@ -74,14 +74,6 @@ Hi there! I'm a Computer Science Engineering undergraduate at **Lovely Professio
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRjZjJpaHhlenBmdHF3dTc2NnQ1bXRzY25oYmN5Nnd6czVmZjhsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="38px"> **Projects**
 
-<div align="center">
-  <a href="https://github.com/aditya3singh/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya3singh&repo=project-1&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/aditya3singh/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya3singh&repo=project-2&theme=react&hide_border=true" />
-  </a>
-</div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhMTRweGJ3M3ZmdGMwbXVoMWI1N2lkZm5lY25udjI0ZnVxZWlndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35px"> **Competitive Programming**
 

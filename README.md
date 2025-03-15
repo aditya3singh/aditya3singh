@@ -31,7 +31,7 @@ Hi there! I'm a Computer Science Engineering undergraduate at **Lovely Professio
       </ul>
     </td>
     <td>
-      <a href="https://app.daily.dev/your-username"><img src="https://api.daily.dev/devcards/v2/CqrQZESr2VULg4Vj0BFb6.png?r=zpx&type=wide" width="350" alt="Aditya Singh's Dev Card"/></a>
+      <a href="https://app.daily.dev/adityasinghgautam"><img src="https://api.daily.dev/devcards/v2/I3HKjjx2N4D6kBS6anv8y.png?r=1eg&type=default" width="356" alt="Aditya Singh Gautam's Dev Card"/></a>
     </td>
   </tr>
 </table>

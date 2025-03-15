@@ -72,14 +72,14 @@ Hi there! I'm a Computer Science Engineering undergraduate at **Lovely Professio
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRjZjJpaHhlenBmdHF3dTc2NnQ1bXRzY25oYmN5Nnd6czVmZjhsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="38px"> **Projects**
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhMTRweGJ3M3ZmdGMwbXVoMWI1N2lkZm5lY25udjI0ZnVxZWlndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35px"> **Competitive Programming**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhMTRweGJ3M3ZmdGMwbXVoMWI1N2lkZm5lY25udjI0ZnVxZWlndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35px"> **Programming Skill**
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/thegautam08?theme=nord&font=&extension=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/thegautam08?theme=nord&font=baloo" alt="LeetCode Stats" />
 </div>
+
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5bHliMnlld2V2dHI0eTlkdGJnNG1pMWV5b2I5OTB1cHRqeGh2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BiTWICy2i0c9W80IIM/giphy.gif" width="36px"> **GitHub Stats**
 
